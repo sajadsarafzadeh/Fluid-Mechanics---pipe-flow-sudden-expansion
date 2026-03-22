@@ -10,7 +10,7 @@ This project investigates minor pressure losses in a pipe with a sudden cross-se
 
 ## Technical Methodology
 * **Theoretical**: Applied Bernoulli and Darcy-Weisbach equations.
-* **Numerical**: Conducted 2D steady-state simulations using **ANSYS Fluent.
+* **Numerical**: Conducted 2D steady-state simulations using ANSYS Fluent.
 * **Analysis**: Investigated flow development requirements, noting that entry lengths significantly impact result correlation.
 
 ## Software Tools
